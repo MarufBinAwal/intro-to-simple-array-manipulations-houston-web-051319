@@ -3,7 +3,7 @@
     
     updated_array = countries_in_western_africa.push("Niger")
     
-    puts updated_array.inspect
+    puts countries_in_western_africa
   
 
 
